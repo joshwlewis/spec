@@ -65,13 +65,13 @@
             "type": "object",
             "required": ["id"],
             "properties": {
-              "id": { 
+              "id": {
                 "type": "string"
               },
               "version": {
                 "type": "string"
               },
-              "uri": { 
+              "uri": {
                 "type": "string"
               }
             }
